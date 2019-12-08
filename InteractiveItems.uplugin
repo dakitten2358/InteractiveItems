@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1",
+	"FriendlyName": "InteractiveItems",
+	"Description": "Item Interactions",
+	"Category": "Gameplay",
+	"CreatedBy": "Jay Murray",
+	"CreatedByURL": "https://github.com/dakitten2358",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "InteractiveItems",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
