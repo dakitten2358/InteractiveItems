@@ -4,6 +4,8 @@
 
 Quick demo video:  https://youtu.be/hkKlg-VNaKM
 
+Example project: https://github.com/dakitten2358/InteractionExamples
+
 ## How To
 
 ### Setup Interactive Items
